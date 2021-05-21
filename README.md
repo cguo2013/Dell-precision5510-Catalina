@@ -7,8 +7,14 @@
   * Harddisk:THNSN5512GPU7 NVMe TOSHIBA 512GB
   * Audio
 * Working
+  * Intel WiFi
+  * HDMI
+  * battery level/charge
+  * USB
+  * internal Camera
+  * sleep/wake
   * 
 * Doesn't work/Not tested/Problem
   * SD Card reader:
   * HiDPI:
-  * 
+  * bluetooth/airdrop
