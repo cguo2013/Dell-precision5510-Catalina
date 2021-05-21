@@ -1,0 +1,7 @@
+Intel(R)_Core(TM)_i7-6820HQ_CPU_@_2.70GHz
+Monitor SHP143E
+Intel Dual band Wireless-AC 8260
+Intel HD Graphics 530 (bios device name=\_SB.PCI0.GFX0)
+Nvidia Quadro M1000M (bios device name=\_SB.PCI0.PEG0.PEGP)
+High Definition Audio (\SB.PCI0.HDAS)
+intel Bluetooth (ID 8087 0A2B)
