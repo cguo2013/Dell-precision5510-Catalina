@@ -16,8 +16,9 @@
   * USB:
   * internal Camera
   * sleep/wake
+  * SD Card reader: https://github.com/cholonam/Sinetek-rtsx/ 
   * 
 * Doesn't work/Not tested/Problem
-  * SD Card reader:
+  * 
   * Nvidia GPU: disabled through SSDT-DGPU.aml (\_SB.PCI0.PEG0.PEGP)
   * airdrop:
