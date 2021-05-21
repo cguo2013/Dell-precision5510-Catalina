@@ -19,5 +19,5 @@
   * 
 * Doesn't work/Not tested/Problem
   * SD Card reader:
-  * Nvidia GPU: disabled
-  * airdrop
+  * Nvidia GPU: disabled through SSDT-DGPU.aml (\_SB.PCI0.PEG0.PEGP)
+  * airdrop:
