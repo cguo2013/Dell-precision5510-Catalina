@@ -7,7 +7,7 @@
   * Dksplay:15" LCD 3840 x 2160（2160p/4K UHD) SHP143E
   * WiFI: INtel Dual band Wireless-AC 8260 
   * Harddisk:THNSN5512GPU7 NVMe TOSHIBA 512GB
-  * Audio
+  * Audio: ALC298
 * Working
   * Intel WiFi/bluetooth
   * HDMI
