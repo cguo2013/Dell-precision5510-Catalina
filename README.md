@@ -17,7 +17,7 @@
   * internal Camera
   * sleep/wake
   * SD Card reader: https://github.com/cholonam/Sinetek-rtsx/ 
-  * 
+  * audio work well with layout id=72 but has problem on earphone, change to id=16 result in perfect earphone.
 * Doesn't work/Not tested/Problem
   * 
   * Nvidia GPU: disabled through SSDT-DGPU.aml (\_SB.PCI0.PEG0.PEGP)
